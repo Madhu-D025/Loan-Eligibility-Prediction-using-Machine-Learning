@@ -44,9 +44,9 @@ The Loan Eligibility Prediction project uses machine learning to classify applic
 <br>
 ✅ Loan Status – The target variable (Yes/No), indicating whether the loan was approved.
 <br>
-<br>
+
 ## Exploratory Data Analysis (EDA)
-<br>
+
 <br>
 ✅ Handling missing values using imputation techniques.
 <br>
@@ -58,7 +58,6 @@ The Loan Eligibility Prediction project uses machine learning to classify applic
 <br>
 
 ## Machine Learning Models Used
-<br>
 <br>
 1) Logistic Regression
 <br>
