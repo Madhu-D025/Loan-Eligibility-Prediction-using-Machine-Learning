@@ -15,13 +15,11 @@ The Loan Eligibility Prediction project uses machine learning to classify applic
 ✅ Evaluate models using performance metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 <br>
 ✅ Optimize the best-performing model through hyperparameter tuning to enhance prediction accuracy.
-<br>
-<br>
+
 ## Dataset used
 <br>
 - <a href="https://github.com/Madhu-D025/Loan-Eligibility-Prediction-using-Machine-Learning/blob/main/loan_approval_dataset.csv">Dataset</a>
-<br>
-<br>
+
 ## Dataset Overview
 <br>
 ✅ Applicant Income – The income of the primary loan applicant, which impacts repayment capability.
@@ -58,7 +56,7 @@ The Loan Eligibility Prediction project uses machine learning to classify applic
 <br>
 ✅ Feature engineering for better model performance.
 <br>
-<br>
+
 ## Machine Learning Models Used
 <br>
 <br>
@@ -72,7 +70,7 @@ The Loan Eligibility Prediction project uses machine learning to classify applic
 <br>
 5) SVM
 <br>
-<br>
+
 ## Model Evaluation Metrics
 <br>
 ✅ Accuracy Score
@@ -81,7 +79,7 @@ The Loan Eligibility Prediction project uses machine learning to classify applic
 <br>
 ✅ Confusion Matrix
 <br>
-<br>
+
 ## Conclusion
 <br>
 The Decision Tree model achieved the highest accuracy, making it the best-performing model for loan eligibility prediction. Other models like SVM, Naïve Bayes, and Logistic Regression performed well but with slightly lower accuracy. The K-Nearest Neighbors model had a noticeable drop in testing accuracy, indicating potential overfitting. Overall, Decision Tree is the most reliable model for this dataset. 🚀
